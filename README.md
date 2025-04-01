@@ -61,7 +61,7 @@ Developed a deep learning (DL) framework with a multi-channel three-dimensional 
 
 Applied Classification and Regression Tree (CART) and random forest (RF) model—to obtain an linear programming relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. This method is computationally efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
 
-<img src="/assets/img/MIP_pred.png" alt="MIP approx" width="400" height="300">
+<img src="/assets/img/MIP_pred.png" alt="MIP approx" width="300" height="300">
 
 ### Probabilistic Forecasting of Generators Startups and Shutdowns in the MISO System Based on Random Forest
 [Publication](https://doi.org/10.1109/PESGM41954.2020.9281926)

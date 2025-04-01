@@ -61,7 +61,7 @@ Developed a deep learning (DL) framework with a multi-channel three-dimensional 
 
 Applied Classification and Regression Tree (CART) and random forest (RF) model—to obtain an linear programming relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. This method is computationally efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
 
-<img src="/assets/img/MIP_pred.png" alt="MIP approx" width="500">
+<img src="/assets/img/MIP_pred.png" alt="MIP approx" width="500",height=="300">
 
 ### Probabilistic Forecasting of Generators Startups and Shutdowns in the MISO System Based on Random Forest
 [Publication](https://doi.org/10.1109/PESGM41954.2020.9281926)
@@ -75,7 +75,7 @@ Built Random Forest models to predict generator startup and shutdown probabiliti
 
 Developed an interactive [WHONDRS-GUI](https://xmlin.shinyapps.io/whondrs/) using R shiny to support data accessibility and multi-domain integration for the Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) community. The web-based tool allows users to explore, visualize, and integrate metabolomics, microbiome, and geochemical datasets without programming requirements, which enhances research by providing an open and structured dataset, facilitating model-data integration for improved watershed function predictions.
 
-<img src="/assets/img/WHONDRS-GUI.png" alt="WHONDRS-GUI" width="500">
+<img src="/assets/img/GUI.png" alt="WHONDRS-GUI" width="500">
 
 ## Awards and Honors 
 - 2024: Outstanding Performance Award,PNNL,US

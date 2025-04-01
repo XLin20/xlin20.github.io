@@ -28,8 +28,7 @@
 - Designed automated data processing pipelines for the WHONDRS data package and developed an interactive GUI using R shiny, enabling real-time data visualization for scientists and researchers.
 
 ## Projects |
-### Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms
-[Publication](https://doi.org/10.1007/s00376-024-3198-7)
+### Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms [DOI](https://doi.org/10.1007/s00376-024-3198-7)
 
 RF and XGB models are developed using **Python** to establish connections between WUS fires and large hail occurrence in the CUS. The built ML models can make accurate predictions for large hail occurrence in several central US states. This paper is a contribution to the special issue on AI Applications in Atmospheric and Oceanic Science: Pioneering the Future.
 

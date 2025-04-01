@@ -1,17 +1,20 @@
 # Data Scientist
 
-## Education |			       		
+## Professional Summary 			       		
+- Data Scientist with 5+ years of experience applying AI/ML techniques in Earth, Environmental, and Energy systems. Expertise in predictive modeling, data-driven decision-making, and optimization. Strong background in cloud computing, big data processing, automated ETL pipelines, feature engineering, model training and deployment in high-performance computing (HPC) environments. Adept at cross-functional collaboration, translating complex insights into actionable outcomes
+
+## Education 			       		
 - M.S., Statistics	| University of Idaho, Moscow, ID, 2016-2018	 			        		
 - B.S., Material Engineering | South China University of Technology, China, 2007-2011
 
-## Technical Skills |
+## Technical Skills 
 - **Machine Learning Techniques**: Supervised and unsupervised learning, Deep Learning (DNN, CNN), and Large Language Models (LLMs).
 - **Data Science**: A/B tests, Data mining, Feature Engineering, Data Visualization , Uncertainty Quantification
 - **Programming Languages**: Python (scikit-learn, keras, pandas, tensorflow, pytorch, etc.); R (dplyr, ggplot2, caret, cluster, forecast, shiny, etc.), SQL, SAS
 - **Computing Environments**: Linux, HPC, Cloud Platforms (AWS, GCP)
 - **Certification**: Generative AI with Large Language Models – Coursera (2025)
 
-## Work Experience |
+## Work Experience 
 **Data Scientist @ Pacific Northwest National Laboratory (PNNL), Richland, WA (_September 2020 - December 2024_)**
 - Developed an automated ML pipeline (i.e., data collection, processing, model trainging) for energy load forecasting under extreme weather scenarios (e.g., heatwave, drought) in the Western U.S. using historical and climate modeling weather data.
 - Initiated the development of a high-resolution (i.e.,1 km) AI-ready benchmark data product (2001–2020) on extreme weather events (e.g., fires, heatwaves, and droughts) across the Western U.S.
@@ -74,13 +77,13 @@ Developed an interactive [WHONDRS-GUI](https://xmlin.shinyapps.io/whondrs/) usin
 
 ![WHONDRS-GUI](/assets/img/GUI.png)
 
-## Awards and Honors |
+## Awards and Honors 
 - 2024: Outstanding Performance Award,PNNL,US
 - 2023: Exceptional Contribution Award, PNNL, US
 - 2018: Dean's Graduate Award, University of Idaho, US
 - 2013: Quality Engineer of the Year, CEME(Zhongshan) Co.Ltd., Zhongshan, China
 
-## Publications |
+## Publications 
 1. Lin X., J. Fan, Y. Zhang, and Z. Hou. 2024. "Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms." Advances in Atmospheric Sciences 41, no. 7:1450-1462. PNNL-SA-201265. [doi:10.1007/s00376-024-3198-7](https://doi.org/10.1007/s00376-024-3198-7) 
 2. Hou Z., N.D. Ward, A.N. Myers-Pigg, X. Lin, S.R. Waichler, C.A. Wiese Moore, and M.J. Norwood, et al. 2024. "Quantifying Drivers of Methane Hydrobiogeochemistry in a Tidal River Floodplain System." Water 16, no. 1:Art. No. 171. PNNL-SA-158802. [doi:10.3390/w16010171](https://doi.org/10.3390/w16010171)
 3. Bao, J., X. Song, Y. Chen, Y. Fang, X. Lin, Z. Hou, ... & T. Scheibe (2024). On the transferability of residence time distributions in two 10-km long river sections with similar hydromorphic units. Journal of Hydrology, 640, 131723. [doi:10.1016/j.jhydrol.2024.131723](https://doi.org/10.1016/j.jhydrol.2024.131723)

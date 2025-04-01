@@ -1,17 +1,17 @@
 # Data Scientist
 
-## Education							       		
+## Education |			       		
 - M.S., Statistics	| University of Idaho, Moscow, ID, 2016-2018	 			        		
 - B.S., Material Engineering | South China University of Technology, China, 2007-2011
 
-## Technical Skills
-- Machine Learning Techniques: Supervised and unsupervised learning, Deep Learning (DNN, CNN), and Large Language Models (LLMs).
-- Data Science: A/B tests, Data mining, Feature Engineering, Data Visualization , Uncertainty Quantification
-- Programming Languages: Python (scikit-learn, keras, pandas, tensorflow, pytorch, etc.); R (dplyr, ggplot2, caret, cluster, forecast, shiny, etc.), SQL, SAS
-- Computing Environments: Linux, HPC, Cloud Platforms (AWS, GCP)
-- Certification: Generative AI with Large Language Models – Coursera (2025)
+## Technical Skills |
+- **Machine Learning Techniques**: Supervised and unsupervised learning, Deep Learning (DNN, CNN), and Large Language Models (LLMs).
+- **Data Science**: A/B tests, Data mining, Feature Engineering, Data Visualization , Uncertainty Quantification
+- **Programming Languages**: Python (scikit-learn, keras, pandas, tensorflow, pytorch, etc.); R (dplyr, ggplot2, caret, cluster, forecast, shiny, etc.), SQL, SAS
+- **Computing Environments**: Linux, HPC, Cloud Platforms (AWS, GCP)
+- **Certification**: Generative AI with Large Language Models – Coursera (2025)
 
-## Work Experience
+## Work Experience |
 **Data Scientist @ Pacific Northwest National Laboratory (PNNL), Richland, WA (_September 2020 - December 2024_)**
 - Developed an automated ML pipeline (i.e., data collection, processing, model trainging) for energy load forecasting under extreme weather scenarios (e.g., heatwave, drought) in the Western U.S. using historical and climate modeling weather data.
 - Initiated the development of a high-resolution (i.e.,1 km) AI-ready benchmark data product (2001–2020) on extreme weather events (e.g., fires, heatwaves, and droughts) across the Western U.S.
@@ -24,18 +24,18 @@
 - Developed classification models to predict generator startup/shutdown probabilities in power system operations, reducing binary decision space  (i.e., commitment status) by 90%.
 - Designed automated data processing pipelines for the WHONDRS data package and developed an interactive GUI using R shiny, enabling real-time data visualization for scientists and researchers.
 
-## Projects
+## Projects |
 ### Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms
 [Publication](https://doi.org/10.1007/s00376-024-3198-7)
 
-RF and XGB models are developed using **Python** to establish connections between WUS fires and large hail occurrence in the CUS. The built ML models can make accurate predictions for large hail occurrence in several central US states. Meteorology and fire features in the western fire region are identified as important variables contributing to accurate prediction. This paper is a contribution to the special issue on AI Applications in Atmospheric and Oceanic Science: Pioneering the Future.
+RF and XGB models are developed using **Python** to establish connections between WUS fires and large hail occurrence in the CUS. The built ML models can make accurate predictions for large hail occurrence in several central US states. This paper is a contribution to the special issue on AI Applications in Atmospheric and Oceanic Science: Pioneering the Future.
 
 ![Wildfires Remote Impact](/assets/img/WF_remote_map.png)
 
 ### An Inventory of AI-ready Benchmark Data for US Fires, Heatwaves, and Droughts.
 [Publication](https://doi.org/10.25584/2004956)
 
-Developed a comprehensive benchmark data inventory of extreme weather events including fires, heatwaves, and droughts for the period 2001 to 2020 with a daily temporal resolution and a spatial resolution of 0.5°×0.5° (~55km×55km) over the continental United States (CONUS), and a spatial resolution of 1km × 1km over the Pacific Northwest (PNW) region, together with the co-located and relevant meteorological variables. This study can contribute significantly to the advancement of extreme weather research, aiding researchers, policymakers, and practitioners in developing improved preparedness and response strategies to protect communities and ecosystems from the adverse impacts of extreme weather events.
+Developed a comprehensive benchmark data inventory of extreme weather events including fires, heatwaves, and droughts (2001-2020) over the CONUS(0.5°×0.5°), and the Pacific Northwest region (1km × 1km), together with the co-located and relevant meteorological variables. This study can contribute significantly to the advancement of extreme weather research, aiding researchers, policymakers, and practitioners in developing improved preparedness and response strategies to protect communities and ecosystems from the adverse impacts of extreme weather events.
 
 ![Data Inventory Flowchart](/assets/img/LDRD_project_flowcharts_eplots_1.png)
 
@@ -49,16 +49,14 @@ Employed ensemble machine learning (ML) methods, namely random forest (RF), eXtr
 ### Predicting future well performance for environmental remediation design using deep learning
 [Publication](https://doi.org/10.1016/j.jhydrol.2023.129110)
 
-Developed a deep learning (DL) framework with a multi-channel three-dimensional convolutional neural network (MC3D-CNN) to predict well performance and thereby assist future environmental remediation design. The framework is developed with operational and monitoring data routinely collected during P&T remedy operations, including well extraction and injection rates as well as in situ contaminant concentrations. The trained DL model achieved an accuracy of over 90% in ranking extraction well performance in validation datasets, and over 80% in predicting high-performance-ranking well locations. This data-informed approach provides a flexible tool to support adaptive site management, streamline decision-making, and potentially reduce remediation time and costs. 
+Developed a deep learning (DL) framework with a multi-channel three-dimensional convolutional neural network (MC3D-CNN) to predict well performance and thereby assist future environmental remediation design. The framework is developed with operational and monitoring data routinely collected during P&T remedy operations, including well extraction and injection rates as well as in situ contaminant concentrations. This data-informed approach provides a flexible tool to support adaptive site management, streamline decision-making, and potentially reduce remediation time and costs. 
 
 ![3D CNN](/assets/img/3D_CNN.png)
 
 ### Approximate Mixed-Integer Programming Solution with Machine Learning Technique and Linear Programming Relaxation
 [Publication](https://doi.org/10.1109/ICSGSC.2019.00-11)
 
-Applied the machine learning-based algorithms—Classification and Regression Tree (CART) model and random forest (RF) model—to obtain an linear programming
-relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. Our method is computationally
-efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
+Applied Classification and Regression Tree (CART) and random forest (RF) model—to obtain an linear programming relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. This method is computationally efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
 
 ![MIP approx](/assets/img/MIP_pred.png)
 
@@ -74,15 +72,15 @@ Built Random Forest models to predict generator startup and shutdown probabiliti
 
 Developed an interactive [WHONDRS-GUI](https://xmlin.shinyapps.io/whondrs/) using R shiny to support data accessibility and multi-domain integration for the Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) community. The web-based tool allows users to explore, visualize, and integrate metabolomics, microbiome, and geochemical datasets without programming requirements, which enhances research by providing an open and structured dataset, facilitating model-data integration for improved watershed function predictions.
 
-![WHONDRS-GUI](/assets/img/GUI.jpg)
+![WHONDRS-GUI](/assets/img/GUI.png)
 
-## Awards and Honors 
+## Awards and Honors |
 - 2024: Outstanding Performance Award,PNNL,US
 - 2023: Exceptional Contribution Award, PNNL, US
 - 2018: Dean's Graduate Award, University of Idaho, US
 - 2013: Quality Engineer of the Year, CEME(Zhongshan) Co.Ltd., Zhongshan, China
 
-## Publications
+## Publications |
 1. Lin X., J. Fan, Y. Zhang, and Z. Hou. 2024. "Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms." Advances in Atmospheric Sciences 41, no. 7:1450-1462. PNNL-SA-201265. [doi:10.1007/s00376-024-3198-7](https://doi.org/10.1007/s00376-024-3198-7) 
 2. Hou Z., N.D. Ward, A.N. Myers-Pigg, X. Lin, S.R. Waichler, C.A. Wiese Moore, and M.J. Norwood, et al. 2024. "Quantifying Drivers of Methane Hydrobiogeochemistry in a Tidal River Floodplain System." Water 16, no. 1:Art. No. 171. PNNL-SA-158802. [doi:10.3390/w16010171](https://doi.org/10.3390/w16010171)
 3. Bao, J., X. Song, Y. Chen, Y. Fang, X. Lin, Z. Hou, ... & T. Scheibe (2024). On the transferability of residence time distributions in two 10-km long river sections with similar hydromorphic units. Journal of Hydrology, 640, 131723. [doi:10.1016/j.jhydrol.2024.131723](https://doi.org/10.1016/j.jhydrol.2024.131723)

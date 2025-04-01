@@ -28,18 +28,19 @@
 - Designed automated data processing pipelines for the WHONDRS data package and developed an interactive GUI using R shiny, enabling real-time data visualization for scientists and researchers.
 
 ## Projects |
-### Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms [DOI](https://doi.org/10.1007/s00376-024-3198-7)
+### Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms 
+[Publication](https://doi.org/10.1007/s00376-024-3198-7)
 
 RF and XGB models are developed using **Python** to establish connections between WUS fires and large hail occurrence in the CUS. The built ML models can make accurate predictions for large hail occurrence in several central US states. This paper is a contribution to the special issue on AI Applications in Atmospheric and Oceanic Science: Pioneering the Future.
 
-![Wildfires Remote Impact](/assets/img/WF_remote_map.png)
+![Wildfires Remote Impact](/assets/img/WF_remote_map.png |width=100)
 
 ### An Inventory of AI-ready Benchmark Data for US Fires, Heatwaves, and Droughts.
 [Publication](https://doi.org/10.25584/2004956)
 
 Developed a comprehensive benchmark data inventory of extreme weather events including fires, heatwaves, and droughts (2001-2020) over the CONUS(0.5°×0.5°), and the Pacific Northwest region (1km × 1km), together with the co-located and relevant meteorological variables. This study can contribute significantly to the advancement of extreme weather research, aiding researchers, policymakers, and practitioners in developing improved preparedness and response strategies to protect communities and ecosystems from the adverse impacts of extreme weather events.
 
-![Data Inventory Flowchart](/assets/img/LDRD_project_flowcharts_eplots_1.png)
+![Data Inventory Flowchart](/assets/img/LDRD_project_flowcharts_eplots_1.png |width=100)
 
 ### Machine learning of key variables impacting extreme precipitation in various regions of the contiguous United States
 [Publication](https://doi.org/10.1029/2022MS003334)

@@ -33,7 +33,7 @@
 
 RF and XGB models are developed using **Python** to establish connections between WUS fires and large hail occurrence in the CUS. The built ML models can make accurate predictions for large hail occurrence in several central US states. This paper is a contribution to the special issue on AI Applications in Atmospheric and Oceanic Science: Pioneering the Future.
 
-<img src="/assets/img/WF_remote_map.png" alt="Wildfires Remote Impact" width="100">
+<img src="/assets/img/WF_remote_map.png" alt="Wildfires Remote Impact" width="500">
 
 ### An Inventory of AI-ready Benchmark Data for US Fires, Heatwaves, and Droughts.
 [Publication](https://doi.org/10.25584/2004956)

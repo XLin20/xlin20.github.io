@@ -23,7 +23,7 @@ _Sep 2020 - Dec 2024_
 - Conducted study on the remote impact of Western U.S. wildfires on Central U.S. hails using ML models (Random Forest, XGBoost) and identifying key weather and fire factors with >90% accuracy.
 - Identified key factors influencing extreme precipitation across the U.S. using ML methods (i.e., RF, XGBoost, NN), achieving R² > 0.95 for intensity model and >90% accuracy for frequency model.
 
-### **Research Associate @ Pacific Northwest National Laboratory (PNNL), Richland, WA **
+### **Research Associate @ Pacific Northwest National Laboratory (PNNL), Richland, WA**
 _Aug 2018 - Sep 2020_
 - Built regression models to approximate mixed integer programming (MIP) solutions in Security Constrained Unit Commitment (SCUC) problems, achieving ~78% reduction in discrepancies with linear programming relaxation (LPR).
 - Developed classification models to predict generator startup/shutdown probabilities in power system operations, reducing binary decision space  (i.e., commitment status) by 90%.

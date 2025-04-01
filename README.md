@@ -33,7 +33,7 @@
 
 RF and XGB models are developed using **Python** to establish connections between WUS fires and large hail occurrence in the CUS. The built ML models can make accurate predictions for large hail occurrence in several central US states. This paper is a contribution to the special issue on AI Applications in Atmospheric and Oceanic Science: Pioneering the Future.
 
-<img src="/assets/img/WF_remote_map.png" alt="Wildfires Remote Impact" width="500">
+<img src="/assets/img/WF_remote_map.png" alt="Wildfires Remote Impact" width="400">
 
 ### An Inventory of AI-ready Benchmark Data for US Fires, Heatwaves, and Droughts.
 [Publication](https://doi.org/10.25584/2004956)
@@ -61,7 +61,7 @@ Developed a deep learning (DL) framework with a multi-channel three-dimensional 
 
 Applied Classification and Regression Tree (CART) and random forest (RF) model—to obtain an linear programming relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. This method is computationally efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
 
-<img src="/assets/img/MIP_pred.png" alt="MIP approx" width="400",height="300">
+<img src="/assets/img/MIP_pred.png" alt="MIP approx" width="400" height="300">
 
 ### Probabilistic Forecasting of Generators Startups and Shutdowns in the MISO System Based on Random Forest
 [Publication](https://doi.org/10.1109/PESGM41954.2020.9281926)

@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Professional Summary 			       		
-- **Data Scientist** with 5+ years of experience applying AI/ML techniques in Earth, Environmental, and Energy systems. Expertise in predictive modeling, data-driven decision-making, and optimization. Strong background in cloud computing, big data processing, automated ETL pipelines, feature engineering, model training and deployment in high-performance computing (HPC) environments. Adept at cross-functional collaboration, translating complex insights into actionable outcomes
+- **Data Scientist** with 6+ years of experience applying AI/ML techniques in Earth, Environmental, and Energy systems. Expertise in predictive modeling, data-driven decision-making, and optimization. Strong background in cloud computing, big data processing, automated ETL pipelines, feature engineering, model training and deployment in high-performance computing (HPC) environments. Adept at cross-functional collaboration, translating complex insights into actionable outcomes
 
 ## Education 			       		
 - **M.S.**, Statistics	| University of Idaho, Moscow, ID, 2016-2018	 			        		
@@ -45,31 +45,31 @@ Developed a comprehensive benchmark data inventory of extreme weather events inc
 
 ### Machine learning of key variables impacting extreme precipitation in various regions of the contiguous United States [(Paper Link)](https://doi.org/10.1029/2022MS003334)
 
-Employed ensemble machine learning (ML) methods, namely random forest (RF), eXtreme Gradient Boosting (XGB), and artificial neural networks (ANN), to explore key contributing variables to monthly extreme precipitation intensity and frequency in six regions over the United States. The developed models effectively captured the probability and return periods of extreme precipitation, offering valuable tools for decision-making in infrastructure planning and design.
+Employed ensemble machine learning (ML) methods, namely random forest (RF), eXtreme Gradient Boosting (XGB), and artificial neural networks (ANN), in **Python** to explore key contributing variables to monthly extreme precipitation intensity and frequency in six regions over the United States. The developed models effectively captured the probability and return periods of extreme precipitation, offering valuable tools for decision-making in infrastructure planning and design.
 
 <img src="/assets/img/jame21792-fig-0003-m.jpg" alt="Extreme precipitation Intensity" width="500">
 
 ### Predicting future well performance for environmental remediation design using deep learning [(Paper Link)](https://doi.org/10.1016/j.jhydrol.2023.129110)
 
-Developed a deep learning (DL) framework with a multi-channel three-dimensional convolutional neural network (MC3D-CNN) to predict well performance and thereby assist future environmental remediation design. The framework is developed with operational and monitoring data routinely collected during P&T remedy operations, including well extraction and injection rates as well as in situ contaminant concentrations. This data-informed approach provides a flexible tool to support adaptive site management, streamline decision-making, and potentially reduce remediation time and costs. 
+Developed a deep learning (DL) framework with a multi-channel three-dimensional convolutional neural network (MC3D-CNN) using **Python** to predict well performance and thereby assist future environmental remediation design. The framework is developed with operational and monitoring data routinely collected during P&T remedy operations, including well extraction and injection rates as well as in situ contaminant concentrations. This data-informed approach provides a flexible tool to support adaptive site management, streamline decision-making, and potentially reduce remediation time and costs. 
 
 <img src="/assets/img/3D_CNN.png" alt="3D CNN" width="400">
 
 ### Approximate Mixed-Integer Programming Solution with Machine Learning Technique and Linear Programming Relaxation [(Paper Link)](https://doi.org/10.1109/ICSGSC.2019.00-11)
 
-Applied Classification and Regression Tree (CART) and random forest (RF) model—to obtain an linear programming relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. This method is computationally efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
+Applied Classification and Regression Tree (CART) and random forest (RF) model using **R**—to obtain an linear programming relaxation(LPR)-based approximation that close to an mixed integer programming (MIP) solution without actually solving the MIP problem. This method is computationally efficient and could achieve an approximation sufficiently close to the Security constrained unit commitment(SCUC) solution with <0.15% error and ~78% reduction in the discrepancies between LPR and MIP solutions.
 
 <img src="/assets/img/MIP_pred.png" alt="MIP approx" width="300" height="300">
 
 ### Probabilistic Forecasting of Generators Startups and Shutdowns in the MISO System Based on Random Forest [(Paper Link)](https://doi.org/10.1109/PESGM41954.2020.9281926)
 
-Built Random Forest models to predict generator startup and shutdown probabilities based on historical hourly system condition observations in the Midcontinent Independent System Operator (MISO) system; significantly reduced the number of binary commitment status variables by 90%, and therefore improve the computational efficiency of security constrained unit commitment (SCUC) solutions.
+Built Random Forest models using **R** to predict generator startup and shutdown probabilities based on historical hourly system condition observations in the Midcontinent Independent System Operator (MISO) system; significantly reduced the number of binary commitment status variables by 90%, and therefore improve the computational efficiency of security constrained unit commitment (SCUC) solutions.
 
 <img src="/assets/img/FRanking.png" alt="Feature Ranking" width="350">
 
 ### WHONDRS-GUI: a web application for global survey of surface water metabolites [(Paper Link)](https://doi.org/10.7717/peerj.9277)
 
-Developed an interactive [WHONDRS-GUI](https://xmlin.shinyapps.io/whondrs/) using R shiny to support data accessibility and multi-domain integration for the Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) community. The web-based tool allows users to explore, visualize, and integrate metabolomics, microbiome, and geochemical datasets without programming requirements, which enhances research by providing an open and structured dataset, facilitating model-data integration for improved watershed function predictions.
+Developed an interactive [WHONDRS-GUI](https://xmlin.shinyapps.io/whondrs/) using **R shiny** to support data accessibility and multi-domain integration for the Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) community. The web-based tool allows users to explore, visualize, and integrate metabolomics, microbiome, and geochemical datasets without programming requirements, which enhances research by providing an open and structured dataset, facilitating model-data integration for improved watershed function predictions.
 
 <img src="/assets/img/GUI.png" alt="WHONDRS-GUI" width="400">
 

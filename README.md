@@ -12,7 +12,7 @@
 - **Data Science**: A/B tests, Data mining, Feature Engineering, Data Visualization , Uncertainty Quantification
 - **Programming Languages**: Python (scikit-learn, keras, pandas, tensorflow, pytorch, etc.); R (dplyr, ggplot2, caret, cluster, forecast, shiny, etc.), SQL, SAS
 - **Computing Environments**: Linux, HPC, Cloud Platforms (AWS, GCP)
-- **Certification**: Generative AI with Large Language Models – Coursera (2025)
+- **Certification**: AWS Certified Machine Learning-Specialty(2025); Generative AI with Large Language Models – Coursera (2025)
 
 ## Work Experience 
 ### **Data Scientist @ Pacific Northwest National Laboratory (PNNL), Richland, WA**
@@ -86,7 +86,7 @@ Developed an interactive [WHONDRS-GUI](https://xmlin.shinyapps.io/whondrs/) usin
 - **2013**: Quality Engineer of the Year, CEME(Zhongshan) Co.Ltd., Zhongshan, China
 
 ## Publications 
-1. Li, L., Lin, X., Fang, Y. et al. A unified ensemble soil moisture dataset across the continental United States. Sci Data 12, 546 (2025). https://doi.org/10.1038/s41597-025-04657-x[10.1038/s41597-025-04657-x](https://doi.org/10.1038/s41597-025-04657-x) 
+1. Li, L., Lin, X., Fang, Y. et al. A unified ensemble soil moisture dataset across the continental United States. Sci Data 12, 546 (2025). [10.1038/s41597-025-04657-x](https://doi.org/10.1038/s41597-025-04657-x) 
 2. Lin X., J. Fan, Y. Zhang, and Z. Hou. 2024. "Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms." Advances in Atmospheric Sciences 41, no. 7:1450-1462. PNNL-SA-201265. [doi:10.1007/s00376-024-3198-7](https://doi.org/10.1007/s00376-024-3198-7) 
 3. Hou Z., N.D. Ward, A.N. Myers-Pigg, X. Lin, S.R. Waichler, C.A. Wiese Moore, and M.J. Norwood, et al. 2024. "Quantifying Drivers of Methane Hydrobiogeochemistry in a Tidal River Floodplain System." Water 16, no. 1:Art. No. 171. PNNL-SA-158802. [doi:10.3390/w16010171](https://doi.org/10.3390/w16010171)
 4. Bao, J., X. Song, Y. Chen, Y. Fang, X. Lin, Z. Hou, ... & T. Scheibe (2024). On the transferability of residence time distributions in two 10-km long river sections with similar hydromorphic units. Journal of Hydrology, 640, 131723. [doi:10.1016/j.jhydrol.2024.131723](https://doi.org/10.1016/j.jhydrol.2024.131723)

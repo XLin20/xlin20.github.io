@@ -32,7 +32,7 @@ _Aug 2018 - Sep 2020_
 ## Projects 
 ### A unified ensemble soil moisture dataset across the continental United States [(Paper Link)](https://www.nature.com/articles/s41597-025-04657-x)
 
-A unified ensemble soil moisture (SM) package has been developed over the Continental United States (CONUS) uisng **NCL** for data precesing and  **Python** for exploratory data analysis and ML model building. The data package includes 19 products from land surface models, remote sensing, reanalysis, and machine learning models. This study provides a comprehensive soil moisture data package and an analysis framework that can be used for Earth system model evaluations and uncertainty quantification, quantifying drought impacts and land–atmosphere interactions and making recommendations for drought response planning.
+A unified ensemble soil moisture (SM) package has been developed over the Continental United States (CONUS) uisng **NCL** for data procesing and  **Python** for exploratory data analysis and ML model building. The data package includes 19 products from land surface models, remote sensing, reanalysis, and machine learning models. This study provides a comprehensive soil moisture data package and an analysis framework that can be used for Earth system model evaluations and uncertainty quantification, quantifying drought impacts and land–atmosphere interactions and making recommendations for drought response planning.
 
 <img src="/assets/img/SM.png" alt="Soil Moisture Data Evaluation" width="400">
 

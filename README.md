@@ -30,6 +30,12 @@ _Aug 2018 - Sep 2020_
 - Designed automated data processing pipelines for the WHONDRS data package and developed an interactive GUI using R shiny, enabling real-time data visualization for scientists and researchers.
 
 ## Projects 
+### A unified ensemble soil moisture dataset across the continental United States [(Paper Link)](https://www.nature.com/articles/s41597-025-04657-x)
+
+A unified ensemble soil moisture (SM) package has been developed over the Continental United States (CONUS) uisng **NCL** for data precesing and  **Python** for exploratory data analysis and ML model building. The data package includes 19 products from land surface models, remote sensing, reanalysis, and machine learning models. This study provides a comprehensive soil moisture data package and an analysis framework that can be used for Earth system model evaluations and uncertainty quantification, quantifying drought impacts and land–atmosphere interactions and making recommendations for drought response planning.
+
+<img src="/assets/img/SM.png" alt="Soil Moisture Data Evaluation" width="400">
+
 
 ### Machine Learning Analysis of Impact of Western US Fires on Central US Hailstorms [(Paper Link)](https://doi.org/10.1007/s00376-024-3198-7)
 

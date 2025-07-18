@@ -32,9 +32,12 @@ _Aug 2018 - Sep 2020_
 ## Projects 
 
 ### Development of a FastAPI-React Framework for MongoDB-Based Power System Data Management & Visualization
-[Github] (https://github.com/XLin20/MongoPower)
+[(Github)] (https://github.com/XLin20/MongoPower)
 
 This project presents the MongoPower Data Manager, a web-based application designed for the efficient management, querying, editing, and visualization of power data stored in MongoDB. Developed with a FastAPI backend and a React frontend (implemented in HTML), the system provides an intuitive interface for interacting with diverse database collections. Key functionalities include real-time MongoDB connection status, dynamic browsing of databases and collections, flexible document retrieval, and comprehensive document editing capabilities. This project aims to enhance data usability and governance for power system applications by providing a robust, user-friendly platform for data interaction and auditing.
+
+<img src="/assets/img/MongoDB_v01.png" alt="MongoPower Data Manager" width="400">
+
 
 ### A unified ensemble soil moisture dataset across the continental United States [(Paper Link)](https://www.nature.com/articles/s41597-025-04657-x)
 

@@ -30,6 +30,12 @@ _Aug 2018 - Sep 2020_
 - Designed automated data processing pipelines for the WHONDRS data package and developed an interactive GUI using R shiny, enabling real-time data visualization for scientists and researchers.
 
 ## Projects 
+
+### Development of a FastAPI-React Framework for MongoDB-Based Power System Data Management & Visualization
+[Github] (https://github.com/XLin20/MongoPower)
+
+This project presents the MongoPower Data Manager, a web-based application designed for the efficient management, querying, editing, and visualization of power data stored in MongoDB. Developed with a FastAPI backend and a React frontend (implemented in HTML), the system provides an intuitive interface for interacting with diverse database collections. Key functionalities include real-time MongoDB connection status, dynamic browsing of databases and collections, flexible document retrieval, and comprehensive document editing capabilities. This project aims to enhance data usability and governance for power system applications by providing a robust, user-friendly platform for data interaction and auditing.
+
 ### A unified ensemble soil moisture dataset across the continental United States [(Paper Link)](https://www.nature.com/articles/s41597-025-04657-x)
 
 A unified ensemble soil moisture (SM) package has been developed over the Continental United States (CONUS) uisng **NCL** for data procesing and  **Python** for exploratory data analysis and ML model building. The data package includes 19 products from land surface models, remote sensing, reanalysis, and machine learning models. This study provides a comprehensive soil moisture data package and an analysis framework that can be used for Earth system model evaluations and uncertainty quantification, quantifying drought impacts and land–atmosphere interactions and making recommendations for drought response planning.
